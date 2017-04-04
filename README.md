@@ -1,7 +1,7 @@
 # course-review
 This app build an REST API use Spark framework to add course reviews
 #
-used gardel for denpendency management.
+used gardle for denpendency management.
 #
 used sql2o framwork to execute sql statements on JDBC compliant database
 #
